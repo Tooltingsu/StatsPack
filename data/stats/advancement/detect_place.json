@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "place_any": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {}
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "stats:events/on_place"
+  }
+}

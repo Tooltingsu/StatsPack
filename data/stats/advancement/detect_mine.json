@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "safe_placeholder": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "stats:events/on_mine"
+  }
+}
