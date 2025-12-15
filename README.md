@@ -37,9 +37,11 @@
 3.  进入游戏，加载脚本并设置自动运行：
     ```mcfunction
     /script load stats_bot_manager
+    ```
+    这一步可以确保每次开服脚本都会自动加载
+    ```mcfunction
     /carpet scriptsAutoload true
     ```
-    *(这一步可以确保每次开服脚本都会自动加载)*
 
 
 
