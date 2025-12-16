@@ -62,7 +62,7 @@
 获取权限后，输入下方指令即可打开可视化交互菜单，无需记忆复杂代码，点击聊天栏选项即可完成操作：
 
 ```mcfunction
-/fix_totals
+/function stats:help
 ```
 
 ## ⌨️ 快捷指令表
