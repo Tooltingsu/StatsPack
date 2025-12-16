@@ -87,8 +87,7 @@
 ## ⌨️ 全服数据同步
 若出现榜单全服数据不符合，请在安装carpet模组和`fix_totals.sc` 文件后，使用该命令同步数据
 ```mcfunction
-
-/tag <你的游戏名> add st_admin
+/fix_totals
 ```
 
 ## 🗑️ 卸载方法
